@@ -1,3 +1,3 @@
 # word-scrambler-game-react
 ### link to demo
-https://csb-lmpe4n.netlify.app/
+https://word-scrambler-reuben09.netlify.app/
